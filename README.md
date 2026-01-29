@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Hi there 👋
+
 <p align="center">
 <img src="https://github.com/Mahlangu-webs/Mahlangu-webs/blob/5b265a70073477017409b9ba38daf7b048b95807/banner.png" alt="Banner" />
 </p>
